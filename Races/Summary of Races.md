@@ -14,14 +14,14 @@ Dominant race in Kiera: skilled in elemental magic, powerfully built, culturally
 - Must adapt linguistically and culturally to Masaquani dominance.
 
 ---
-## [[Kraken]] (≈ 10%)
+## [[Kraken](Kraken.md)] (≈ 10%)
 
 Highly magical, squid-like, originally seafarers of Tar Tarris.
 - Often elementalist mages, advisors to Circle.
 - Viewed with mystique and suspicion; kept at distance socially.
 
 ---
-## [[Scurillians]] (≈ 7%)
+## [[Scurillians](/Races/Scurillians.md)] (≈ 7%)
 
 Crab like-folk, engineered by Kraken magic.
 - Useful as accountants, surveyors, scholars.
