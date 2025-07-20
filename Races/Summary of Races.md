@@ -7,7 +7,7 @@ Dominant race in Kiera: skilled in elemental magic, powerfully built, culturally
 - Deeply xenophobic yet pragmatic—tolerates useful foreigners.
 
 ---
-### [Humans](Humans.md) (≈ 20%)
+### [Human](Human.md) (≈ 20%)
 
 “Visitors” from Earth—integrated, versatile, present in all societal levels.
 - Serve as civic workers, soldiers, scholars, occasionally minor nobles.
@@ -42,9 +42,9 @@ Winged glider-folk of the canopy.
 - Pink-toned wings give an exotic and ethereal presence.
 
 ---
-## [Half-Ugak (Red Men)](Half-Ugak (Red Men)) (≈ 3%)
+## [Half-Ugak](Half-Ugak) (≈ 3%)
 
-Half-Ugak, savage lineage.
+Half-Ugak, savage lineage (aka Red Men).
 - Heavily stigmatized, often working manual labor or illicit trades.
 - Some integrate by abandoning their heritage.
 
