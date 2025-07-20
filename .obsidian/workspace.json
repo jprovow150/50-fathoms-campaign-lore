@@ -1,0 +1,343 @@
+{
+  "main": {
+    "id": "d71ae1551f25704c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e386f4bdca7f71a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6a42eb3f96d0453",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Character Design Considerations.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Character Design Considerations"
+            }
+          },
+          {
+            "id": "cf75a218334437ac",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Races/Summary of Races.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Summary of Races"
+            }
+          },
+          {
+            "id": "1d0e5d37beca780c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/Event Timeline.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Event Timeline"
+            }
+          },
+          {
+            "id": "16dace1d04fea0f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/Post-Drowning Era/The Second Howling Night.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Second Howling Night"
+            }
+          },
+          {
+            "id": "7d3a900329fc82e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/Post-Drowning Era/The Start of the Song.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Start of the Song"
+            }
+          },
+          {
+            "id": "1ef1d776cecf8e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/Event Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Event Template"
+            }
+          },
+          {
+            "id": "5f43c8de0b65b879",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/Post-Drowning Era/The First Howling Night.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The First Howling Night"
+            }
+          },
+          {
+            "id": "b3df3ad5299bcdb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/Event Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Event Template"
+            }
+          },
+          {
+            "id": "ce0711352d6d8997",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/The Drowning Era/Arrival of Outsiders.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arrival of Outsiders"
+            }
+          },
+          {
+            "id": "f3a55c15dfcb215c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Events/The Drowning Era/Rise of the Sea Hags.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rise of the Sea Hags"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9877b2d40a3ee3f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "11151e92690ab252",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fab251063b8470ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d156b1c23f20d439",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "df806760d7e83700",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 398.5
+  },
+  "right": {
+    "id": "7d939721f0dcf250",
+    "type": "split",
+    "children": [
+      {
+        "id": "55eef0a8df9be126",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "247fe0a211394e06",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Races/Summary of Races.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Summary of Races"
+            }
+          },
+          {
+            "id": "28a62533dba3904d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Races/Summary of Races.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Summary of Races"
+            }
+          },
+          {
+            "id": "ba2f83f96e3d1464",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "674323fbdea46553",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Races/Summary of Races.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Summary of Races"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f3a55c15dfcb215c",
+  "lastOpenFiles": [
+    "Events/Event Timeline.md",
+    "Events/Post-Drowning Era/The Second Howling Night.md",
+    "Events/The Drowning Era/Rise of the Sea Hags.md",
+    "Events/Event Template.md",
+    "Events/The Drowning Era/Arrival of Outsiders.md",
+    "Races/Summary of Races.md",
+    "Characters/Character Design Considerations.md",
+    "Events/Post-Drowning Era/The First Howling Night.md",
+    "[[.md",
+    "Events/Post-Drowning Era/The Start of the Song.md",
+    "Events/Post-Drowning Era/The Smoldering Spindle Fire.md",
+    "Events/Post-Drowning Era/The Market Riots.md",
+    "Events/Post-Drowning Era/The Murder of Captain Corwin Stones.md",
+    "Events/The Drowning Era/The Wreck of the Rebecca.md",
+    "Events/The Drowning Era/Tressa Slows the Flood.md",
+    "Events/Post-Drowning Era/The Hagfall.md",
+    "Events/The Drowning Era/The Raid on Paltos Prison.md",
+    "Wreck.md",
+    "Events/The Drowning Era/The Flood of the 8th Terrace.md",
+    "Events/The Drowning Era/The Ironfall Incident.md",
+    "Events/The Drowning Era/Death of Tressa the Red.md",
+    "Locations/Kiera/Isla Dios.md",
+    "Locations/Kiera",
+    "Events/The Drowning Era/The Broken Chains Revolt.md",
+    "The Drowning Era",
+    "Events/Pre-Drowning Era/The Midnight Storm.md",
+    "Events/The Drowning Era/The Flood of the 9th Terrace.md",
+    "The Drowning Era/The Drowning Era/The Flood of the 9th Terrace.md",
+    "The Drowning Era/The Drowning Era",
+    "Events/The Drowning Era/The Drowning Era",
+    "Events/Post-Drowning Era",
+    "Events/The Drowning Era",
+    "Events/Pre-Drowning Era",
+    "Events/Holidays",
+    "Lore",
+    "Factions"
+  ]
+}
