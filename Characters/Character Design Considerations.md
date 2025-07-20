@@ -3,7 +3,7 @@ TBD
 
 # Races
 The Kieran Empire is the last of the Masaquani kingdoms. While somewhat xenophobic, it is welcoming to humans, Kraken, and Scurillians and hostile to Ugak.  The other races scrape by in the city on the edges of society.
-### [Summary of Races](Races/Summary%20of%20Races.md)
+### [Summary of Races](/Races/Summary%20of%20Races.md)
 
 Here’s a racial breakdown of the city of Kiera, the last great city of the Masaquani kingdoms, balancing political dominance, social structures, and marginalized groups within an urban power center:
 ### **Racial Demographics of Kiera**
