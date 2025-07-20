@@ -1,13 +1,13 @@
 # Races of Kiera
 
-## [[Masaquani]](≈ 45%)
+## [[Masaquani]] (≈ 45%)
 
 Dominant race in Kiera: skilled in elemental magic, powerfully built, culturally central.
 - Politically dominant—nobles, merchants, and Circle elites.
 - Deeply xenophobic yet pragmatic—tolerates useful foreigners.
 
 ---
-### [[Humans]] (≈ 20%)
+### [[Humans](/Humans.md)] (≈ 20%)
 
 “Visitors” from Earth—integrated, versatile, present in all societal levels.
 - Serve as civic workers, soldiers, scholars, occasionally minor nobles.
